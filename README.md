@@ -26,7 +26,7 @@ O projeto foi desenvolvido com uma abordagem modular e orientada a objetos, util
 
 ## Como Executar o Projeto
 
-1. Certifique-se de ter o **Java JDK 23** instalado em sua máquina.
+1. Certifique-se de ter o **Java JDK** instalado em sua máquina.
 2. Clone este repositório:
    ```bash
    git clone https://github.com/lucashrt/bancoJava.git
