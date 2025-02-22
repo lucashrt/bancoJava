@@ -1,0 +1,8 @@
+com\mycompany\banco\ContaCorrente.class
+com\mycompany\banco\Conta.class
+com\mycompany\banco\Transacao.class
+com\mycompany\banco\ContaInvestimento.class
+com\mycompany\banco\ProdutoInvestimentos.class
+com\mycompany\banco\Cliente.class
+com\mycompany\banco\Banco.class
+com\mycompany\banco\Main.class
